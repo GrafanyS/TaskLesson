@@ -23,3 +23,5 @@ void PrintArray(string[] array)// метод печати
 }
 ArrayWith(arrayone, arraytwo);
 PrintArray(arraytwo);
+
+//Проверил все все файлы по заданию сделал слияние в ветку main из Program
